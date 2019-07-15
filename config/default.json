@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://teo:12b425@devconnector2-whms8.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "643ddaa7052a8b18edc5",
+  "githubSecret": "f1920701327a24f4b564223c4f00a11a1d38c726"
+}
